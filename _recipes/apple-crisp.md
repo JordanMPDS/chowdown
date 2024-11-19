@@ -22,7 +22,9 @@ ingredients:
 directions:
 - Heat oven to 350°.
 - In a bowl mix together the first five ingredients.  Place in the bottom of a greased 9x13 pan.
-- In another bowl, mix the ne
+- In another bowl, mix the next six ingredients together until the mixture resembles coarse crumbles.
+- Place the crumble mixture on top of the applice slices.
+- Bake for 40-45 minutes or until apples are tender.
 
 ---
 
