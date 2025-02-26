@@ -10,11 +10,11 @@ ingredients:
 - prepared paste
 - 3 tsp instant yeast (2 packets)
 - 2/3 cup milk warmed to 100° Fahrenheit
-- 1/2 cup sugar
+- 1/2 cup (126g) sugar
 - 3 Tbsp salted butter melted
 - 1 egg
 - 1 tsp salt
-- 3 2/3 cup bread flour
+- 3 2/3 cup (504g) bread flour
 - 1/2 cup heavy whipping cream to pour over risen rolls before baking
 
 directions:
