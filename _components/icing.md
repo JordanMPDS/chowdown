@@ -7,13 +7,12 @@ imagecredit:
 tags: baking
 
 ingredients:
-- 1 <sup>1/2</sup> cup powdered sugar
-- 2 Tbsp melted butter
-- 2 tsp vanilla
-- 1/4 cup milk or half & half
-- Orange zest and juice to taste
+- 200g powdered sugar
+- 70g heavy cream
+- 1/2 tsp vanilla
+- pinch of salt
 
 directions:
-- Mix brown sugar and cinnamon together in a bowl then sprinkle on top of the butter and dough evenly.
+- Mix all ingredients in bowl and set aside.
 
 ---
