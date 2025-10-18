@@ -54,7 +54,13 @@ layout: default
       <ul itemprop="ingredients">
         <!-- list ingredients that make up recipe -->
         {% for ingredient in page.ingredients %}
+        {% if ingredient contains "###" %}
+        </ul>
+        {{ ingredient | markdownify }}
+        <ul itemprop="ingredients">
+        {% else %}
         <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+        {% endif %}
         {% endfor %}
       </ul>
       {% endif %}
