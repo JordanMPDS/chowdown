@@ -7,7 +7,7 @@ imagecredit:
 tags: cooking, sauce
 
 ingredients:
-- 1 <sup>1/4</sup> cups whole milk heated
+- 1<sup>1/4</sup> cups whole milk heated
 - 2 Tbsp unsalted butter
 - 2 Tbsp flour
 - salt and pepper

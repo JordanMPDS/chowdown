@@ -7,6 +7,13 @@ imagecredit:
 tags: german
 
 ingredients:
+- "### Knoeplha Dough"
+- 1 egg
+- 1 cup milk
+- 2 cups flour
+- 1 tsp baking powder
+- 1 tsp salt
+- "### Soup "
 - 6 potatoes chopped
 - 2 medium yellow onions, chopped
 - 5 cups water
@@ -18,13 +25,16 @@ ingredients:
 - 1 can evaporated milk
 
 directions:
-- Peel and chop potatoes into 2" pieces.
+- "### Knoephla Dough "
+- To make the dough, beat egg in medium bowl
+- Stir in milk
+- Stir in flour, baking powder, and salt results in a very soft dough.
+- Place 1/2 tsp sized balls in simmering soup
+- "### Soup "
+- To make the soup, peel and chop potatoes into 2" pieces.
 - Add potatoes and onion to large pot.
 - Add water, bouillon, butter, parsley, salt, and pepper.
 - Simmer until potatoes are tender.  Add knefla dough and simmer for 30 minutes.
 - Take off heat and add evaporated milk.
-
-components:
-- Knoephla Dough
 
 ---

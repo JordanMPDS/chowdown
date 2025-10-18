@@ -71,7 +71,13 @@ layout: default
       <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}
+        {% if direction contains "###" %}
+        </ul>
+        {{ direction | markdownify }}
+        <ul itemprop="recipeInstructions">
+        {% else %}
         <li>{{ direction | markdownify }}</li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>
