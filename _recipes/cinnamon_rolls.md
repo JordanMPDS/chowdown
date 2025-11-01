@@ -22,7 +22,7 @@ ingredients:
 - 3 2/3 cup (504g) bread flour
 - 1/2 cup heavy whipping cream to pour over risen rolls before baking
 - "### Filling"
-- 1 cup light brown sugar packed
+- 1 cup (230g) light brown sugar packed
 - 2 Tbsp cinnamon
 - 8 Tbsp salted butter softened
 - "### Icing"
