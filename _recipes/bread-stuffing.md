@@ -12,7 +12,7 @@ ingredients:
 - 1 cup butter
 - 9 cups soft bread cubes
 - 1 tsp salt
-- 1<sup>1/2</sup> dried sage
+- 1<sup>1/2</sup> tsp dried sage
 - 1 tsp dried thyme
 - 1/2 tsp pepper
 
