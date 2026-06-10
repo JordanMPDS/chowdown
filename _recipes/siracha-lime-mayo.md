@@ -7,7 +7,7 @@ imagecredit:
 tags: sauce
 
 ingredients:
-- 1/2 c mayo
+- 1/2 cup mayo
 - 3 Tbsp sirarcha
 - 2 Tbsp fresh lime juice
 - 2 tsp lime zest
