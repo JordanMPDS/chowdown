@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Iced Pumpkin Coffee Cake"
-image:
+image: pumpkin-cumb-cake.jpg
 imagecredit: 
 tags: baking, dessert, pumpkin
 
